@@ -1,0 +1,21 @@
+{
+  "name": "frb",
+  "version": "0.2.17",
+  "homepage": "https://github.com/montagejs/frb",
+  "authors": [
+    "Kris Kowal kris.kowal@cixar.com"
+  ],
+  "description": "Functional Reactive Bindings (frb): A CommonJS package that includes functional and generic building blocks to help incrementally ensure consistent state.",
+  "main": "bind.js",
+  "keywords": [
+    "binding"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "spec",
+    "samples",
+    "checklist.csv"
+  ]
+}
